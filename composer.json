@@ -1,5 +1,5 @@
 {
-  "name": "rap2hpoutre/fast-excel",
+  "name": "yaware/fast-excel",
   "type": "library",
   "keywords": ["laravel", "excel", "csv", "xls", "xlsx"],
   "description": "Fast Excel import/export for Laravel",
